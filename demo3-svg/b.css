@@ -1,0 +1,5 @@
+div{
+	color:red;
+	background: url(./success.svg);
+	display: inline-block;
+}
