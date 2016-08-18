@@ -1,7 +1,3 @@
-npm i webpack -g
-npm i babel-loader css-loader babel-preset-es2015 babel-preset-stage-2 style-loader --save-dev
+#死命简单的webpack
 
-
-npm i svg-url-loader --save-dev
-
-
+https://segmentfault.com/a/1190000006634136
